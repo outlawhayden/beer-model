@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/outlawhayden/beer-model/main/assets/beer_big.jpg" width="1600" height="100" />
+
 # Constructing Linear Models to Predict Beer Ratings on Observed Attributes
 *Hayden Outlaw | Tulane MATH 6040 Linear Models | Spring 2024*
+
 ---------------
 In 2022, New Orleans was one of the most competitive and dense cities for bars in the United States, with 56.3 bars, 1.4 breweries, and 4.3 wine bars per 100,000 residents [(via RealEstateWitch)](https://budgetbranders.com/blog/2020-drinking-statistics-and-habits-trends-you-can-expect-for-your-bar-business/). In the United States, as of 2022 there were 9,709 total registered breweries [(via Statista)](https://www.statista.com/topics/1654/beer-industry-in-the-united-states/#topicOverview) overall - given the large market size and variety of products, is there a way to identify individual product traits that can be used to regress total product quality?
 
